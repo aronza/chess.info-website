@@ -1,0 +1,32 @@
+{
+  "name": "chess.info",
+  "version": "1.0.0",
+  "description": "front-end for chess database application",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "child_process": "^1.0.2",
+    "python-shell": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aronza/chess.info-website.git"
+  },
+  "keywords": [
+    "chess",
+    "database"
+  ],
+  "author": "Arda Turkmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aronza/chess.info-website/issues"
+  },
+  "homepage": "https://github.com/aronza/chess.info-website#readme"
+}
