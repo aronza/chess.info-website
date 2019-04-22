@@ -3,6 +3,7 @@ Node.js front-end for a chess database application.
 
 Prerequisites:
   Needs to have the database for project running in the background on localhost.
+  
 TO RUN:
   1. Need to have node and npm.
   2. After downloading the project, open a terminal and change the directory to project.
